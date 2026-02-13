@@ -1,0 +1,17 @@
+# Compiled class files
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+
+# Database jar file (do NOT upload jar)
+*.jar
+
+# OS files
+.DS_Store
+Thumbs.db
